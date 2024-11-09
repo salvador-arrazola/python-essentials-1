@@ -1,0 +1,40 @@
+# Version original:
+print("    *")
+print("   * *")
+print("  *   *")
+print(" *     *")
+print("***   ***")
+print("  *   *")
+print("  *   *")
+print("  *****")
+
+# Menos print:
+print("    *\n   * *\n  *   *\n *     *")
+print("***   ***")
+print("  *   *\n  *   *\n  *****")
+
+# Doble de tamaño:
+print("        **")
+print("       *  *")
+print("      *    *")
+print("     *      *")
+print("    *        *")
+print("   *          *")
+print("  *            *")
+print(" *              *")
+print("******      ******")
+print("     *      *")
+print("     *      *")
+print("     *      *")
+print("     *      *")
+print("     ********")
+
+# Dos flechas:
+print("    *     " * 2)
+print("   * *    " * 2)
+print("  *   *   " * 2)
+print(" *     *  " * 2)
+print("***   *** " * 2)
+print("  *   *   " * 2)
+print("  *   *   " * 2)
+print("  *****   " * 2)
