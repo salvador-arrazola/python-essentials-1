@@ -1,0 +1,5 @@
+# Ejemplos del uso del operador de replicacionm de cadenas.
+print("Juan" * 2)
+print(5 * "nena")
+print("2" * 3) # No imprime 10.
+print("Esta cadena desaparece" * 0) # Replicar por un valor =< 0, regresa cadena vacia.
